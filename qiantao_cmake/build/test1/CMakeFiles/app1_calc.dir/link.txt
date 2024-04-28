@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app1_calc.dir/calc.cpp.o -o ../../bin/app1_calc  -Wl,-rpath,/home/yhchaos/HPDS/qiantao_cmake/lib ../../lib/libcalc.so 

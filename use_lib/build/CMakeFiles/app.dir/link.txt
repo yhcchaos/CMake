@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/home/yhchaos/HPDS/use_lib/lib_shared  -Wl,-rpath,/home/yhchaos/HPDS/use_lib/lib_shared -lcalc 

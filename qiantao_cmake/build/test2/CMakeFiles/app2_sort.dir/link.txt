@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2_sort.dir/sort.cpp.o -o ../../bin/app2_sort   -L/home/yhchaos/HPDS/qiantao_cmake/lib  -Wl,-rpath,/home/yhchaos/HPDS/qiantao_cmake/lib ../../lib/libsort.a 
